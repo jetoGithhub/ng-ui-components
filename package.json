@@ -2,6 +2,7 @@
   "name": "ngUiComponents",
   "version": "0.0.0",
   "license": "MIT",
+  "main": "src/index",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
